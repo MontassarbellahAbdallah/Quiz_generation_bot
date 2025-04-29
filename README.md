@@ -1,29 +1,33 @@
-Quiz Generation Bot
-Description
-This project is a simple Python bot designed to generate interactive quizzes with the pdf uploaded. It displays questions, records user responses, and shows the final results at the end.
+# Quiz Generation Bot
+[Click here to see the demo](https://github.com/MontassarbellahAbdallah/Quiz_generation_bot/blob/master/demo_quizBot.gif)
 
-Project Files
-quiz.py : the main app (if you want the hole code contact me). ✅
-quiz_interface.py : Main code for the quiz logic and interface.
-demo_quizBot.gif : Visual demonstration of how the bot works.
-requirement.txt : List of required dependencies to run the project.
+## Description
+This project is a simple Python bot designed to generate interactive quizzes with the PDF uploaded. It displays questions, records user responses, and shows the final results at the end.
 
-.gitignore : Specifies files to be ignored by Git.
+## Project Files
+- `quiz.py` : The main app (if you want the whole code, contact me). ✅
+- `quiz_interface.py` : Main code for the quiz logic and interface.
+- `demo_quizBot.gif` : Visual demonstration of how the bot works.
+- `requirement.txt` : List of required dependencies to run the project.
+- `.gitignore` : Specifies files to be ignored by Git.
 
-Installation
-Clone the repository:
-git clone https://github.com/MontassarbellahAbdallah/Quiz_generation_bot.git
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MontassarbellahAbdallah/Quiz_generation_bot.git
+   cd Quiz_generation_bot
+   ```
 
-cd Quiz_generation_bot
-Install the dependencies:
-pip install -r requirement.txt
+2. Install the dependencies:
+   ```bash
+   pip install -r requirement.txt
+   ```
 
-Run the bot:
-python quiz.py
-streamlit run quiz_interface.py
+3. Run the bot:
+   ```bash
+   python quiz.py
+   streamlit run quiz_interface.py
+   ```
 
-Preview
-https://github.com/MontassarbellahAbdallah/Quiz_generation_bot/blob/master/demo_quizBot.gif
-
-Author
-Montassar bellah Abdallah
+## Author
+Montassar bellah Abdallah [LinkedIn Profile](https://www.linkedin.com/in/montassar-bellah-abdallah-444931168/)
